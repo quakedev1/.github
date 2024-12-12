@@ -1,5 +1,5 @@
 
-# Official eletrixgg Github
+# Official Quake Github
 
 This has repositories with content used in eletrixgg's videos along with the source code for them.
 

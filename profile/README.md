@@ -1,7 +1,7 @@
 
 # Official eletrixgg Github
 
-This has repositories with content used in eletrixgg's videos along with the source code for them.
+This has repositories with content used in quake's videos along with the source code for them.
 
 
 
@@ -19,5 +19,5 @@ You can contribute stuff in the Discord [here.](https://dsc.gg/eletrixgg)
 
 ## Authors
 
-- [@eletrixgg](https://www.github.com/eletrixwtf)
+- [@quakepro1](https://www.github.com/eletrixwtf)
 
